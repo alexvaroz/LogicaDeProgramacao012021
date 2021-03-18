@@ -4,7 +4,7 @@ Var
    numero_secreto, chute, numero_tentativas: inteiro
 
 Inicio
-   numero_secreto <-25
+   numero_secreto <-Randi(50)
    numero_tentativas <- 3
    escreval("****************************")
    escreval("**                        **")
