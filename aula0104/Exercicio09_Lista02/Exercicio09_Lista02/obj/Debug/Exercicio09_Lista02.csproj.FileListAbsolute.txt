@@ -1,0 +1,6 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0104\Exercicio09_Lista02\Exercicio09_Lista02\bin\Debug\Exercicio09_Lista02.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0104\Exercicio09_Lista02\Exercicio09_Lista02\bin\Debug\Exercicio09_Lista02.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0104\Exercicio09_Lista02\Exercicio09_Lista02\bin\Debug\Exercicio09_Lista02.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0104\Exercicio09_Lista02\Exercicio09_Lista02\obj\Debug\Exercicio09_Lista02.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0104\Exercicio09_Lista02\Exercicio09_Lista02\obj\Debug\Exercicio09_Lista02.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0104\Exercicio09_Lista02\Exercicio09_Lista02\obj\Debug\Exercicio09_Lista02.pdb
