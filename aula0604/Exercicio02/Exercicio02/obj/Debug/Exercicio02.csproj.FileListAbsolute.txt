@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0604\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb
