@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\bin\Debug\Introducao_listas.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\bin\Debug\Introducao_listas.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\bin\Debug\Introducao_listas.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\obj\Debug\Introducao_listas.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\obj\Debug\Introducao_listas.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\obj\Debug\Introducao_listas.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2004\Introducao_listas\Introducao_listas\obj\Debug\Introducao_listas.pdb
