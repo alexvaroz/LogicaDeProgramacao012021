@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\bin\Debug\IntroducaoRecursao.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\bin\Debug\IntroducaoRecursao.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\bin\Debug\IntroducaoRecursao.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\obj\Debug\IntroducaoRecursao.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\obj\Debug\IntroducaoRecursao.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\obj\Debug\IntroducaoRecursao.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0405\IntroducaoRecursao\IntroducaoRecursao\obj\Debug\IntroducaoRecursao.pdb
