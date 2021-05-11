@@ -1,0 +1,10 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\bin\Debug\MeuPrimeiroFormulario.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\bin\Debug\MeuPrimeiroFormulario.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\bin\Debug\MeuPrimeiroFormulario.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.Form1.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.Properties.Resources.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.csproj.GenerateResource.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1105\MeuPrimeiroFormulario\MeuPrimeiroFormulario\obj\Debug\MeuPrimeiroFormulario.pdb
