@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvinheSePuderV2", "AdvinheSePuderV2\AdvinheSePuderV2.csproj", "{187879BE-1665-4681-B68F-B2B229FE41BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187879BE-1665-4681-B68F-B2B229FE41BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187879BE-1665-4681-B68F-B2B229FE41BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187879BE-1665-4681-B68F-B2B229FE41BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187879BE-1665-4681-B68F-B2B229FE41BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C18B6D-6962-410B-A3C1-B42CE495BB5C}
+	EndGlobalSection
+EndGlobal

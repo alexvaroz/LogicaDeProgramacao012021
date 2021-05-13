@@ -1,0 +1,10 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\bin\Debug\AdvinheSePuderV2.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\bin\Debug\AdvinheSePuderV2.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\bin\Debug\AdvinheSePuderV2.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.Form1.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.Properties.Resources.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.csproj.GenerateResource.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\AdvinheSePuderV2\AdvinheSePuderV2\obj\Debug\AdvinheSePuderV2.pdb

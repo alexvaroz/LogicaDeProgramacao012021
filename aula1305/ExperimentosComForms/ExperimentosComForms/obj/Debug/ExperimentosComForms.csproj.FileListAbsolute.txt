@@ -1,0 +1,10 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\bin\Debug\ExperimentosComForms.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\bin\Debug\ExperimentosComForms.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\bin\Debug\ExperimentosComForms.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.Form1.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.Properties.Resources.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.csproj.GenerateResource.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1305\ExperimentosComForms\ExperimentosComForms\obj\Debug\ExperimentosComForms.pdb
