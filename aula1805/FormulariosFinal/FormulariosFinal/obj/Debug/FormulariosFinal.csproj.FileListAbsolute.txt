@@ -1,0 +1,11 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\bin\Debug\FormulariosFinal.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\bin\Debug\FormulariosFinal.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\bin\Debug\FormulariosFinal.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.Properties.Resources.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.csproj.GenerateResource.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.frm_Principal.resources
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula1805\FormulariosFinal\FormulariosFinal\obj\Debug\FormulariosFinal.frm_filho.resources
