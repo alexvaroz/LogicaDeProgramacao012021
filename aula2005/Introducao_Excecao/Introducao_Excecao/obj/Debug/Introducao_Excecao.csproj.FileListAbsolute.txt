@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\bin\Debug\Introducao_Excecao.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\bin\Debug\Introducao_Excecao.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\bin\Debug\Introducao_Excecao.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\obj\Debug\Introducao_Excecao.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\obj\Debug\Introducao_Excecao.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\obj\Debug\Introducao_Excecao.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2005\Introducao_Excecao\Introducao_Excecao\obj\Debug\Introducao_Excecao.pdb
