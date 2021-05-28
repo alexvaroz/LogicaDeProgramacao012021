@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\bin\Debug\PrimeirasClasses.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\bin\Debug\PrimeirasClasses.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\bin\Debug\PrimeirasClasses.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\obj\Debug\PrimeirasClasses.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\obj\Debug\PrimeirasClasses.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\obj\Debug\PrimeirasClasses.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula2705\PrimeirasClasses\PrimeirasClasses\obj\Debug\PrimeirasClasses.pdb
