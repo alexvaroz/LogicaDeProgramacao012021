@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\ExemploEncapsulamento.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\ExemploEncapsulamento.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\bin\Debug\ExemploEncapsulamento.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0106\ExemploEncapsulamento\ExemploEncapsulamento\obj\Debug\ExemploEncapsulamento.pdb
