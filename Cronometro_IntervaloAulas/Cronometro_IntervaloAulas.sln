@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro_IntervaloAulas", "Cronometro_IntervaloAulas\Cronometro_IntervaloAulas.csproj", "{76511B94-7CEF-407E-BEE6-1648C2D454DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76511B94-7CEF-407E-BEE6-1648C2D454DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76511B94-7CEF-407E-BEE6-1648C2D454DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76511B94-7CEF-407E-BEE6-1648C2D454DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76511B94-7CEF-407E-BEE6-1648C2D454DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E159D61F-7EF8-4640-95E2-7C74611BABDF}
+	EndGlobalSection
+EndGlobal
