@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\bin\Debug\Exemplo_Heranca.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\bin\Debug\Exemplo_Heranca.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\bin\Debug\Exemplo_Heranca.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\obj\Debug\Exemplo_Heranca.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\obj\Debug\Exemplo_Heranca.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\obj\Debug\Exemplo_Heranca.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\aula0806\Exemplo_Heranca\Exemplo_Heranca\obj\Debug\Exemplo_Heranca.pdb
