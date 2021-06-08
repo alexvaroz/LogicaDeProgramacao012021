@@ -8,7 +8,7 @@ namespace PrimeirasClasses
 {
     class Cachorro
     {
-        // Atributos
+        // Atributoss
         private string nome;
         public string raca;
         public string genero;
