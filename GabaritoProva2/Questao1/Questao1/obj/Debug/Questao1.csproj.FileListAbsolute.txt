@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\bin\Debug\Questao1.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\bin\Debug\Questao1.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\bin\Debug\Questao1.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\obj\Debug\Questao1.csprojAssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\obj\Debug\Questao1.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao1\Questao1\obj\Debug\Questao1.pdb

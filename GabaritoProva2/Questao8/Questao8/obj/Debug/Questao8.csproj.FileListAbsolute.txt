@@ -1,0 +1,6 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao8\Questao8\bin\Debug\Questao8.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao8\Questao8\bin\Debug\Questao8.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao8\Questao8\bin\Debug\Questao8.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao8\Questao8\obj\Debug\Questao8.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao8\Questao8\obj\Debug\Questao8.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao8\Questao8\obj\Debug\Questao8.pdb

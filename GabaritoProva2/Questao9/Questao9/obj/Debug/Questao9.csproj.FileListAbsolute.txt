@@ -1,0 +1,6 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao9\Questao9\bin\Debug\Questao9.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao9\Questao9\bin\Debug\Questao9.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao9\Questao9\bin\Debug\Questao9.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao9\Questao9\obj\Debug\Questao9.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao9\Questao9\obj\Debug\Questao9.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\GabaritoProva2\Questao9\Questao9\obj\Debug\Questao9.pdb
