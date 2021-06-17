@@ -1,0 +1,7 @@
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\bin\Debug\Questao03.exe.config
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\bin\Debug\Questao03.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\bin\Debug\Questao03.pdb
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\obj\Debug\Questao03.csproj.AssemblyReference.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\obj\Debug\Questao03.csproj.CoreCompileInputs.cache
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\obj\Debug\Questao03.exe
+D:\Usuarios\Alexandre\Documentos\Repositorio\ProfessorAlexvaroz\projetosLP\Aula_Revisao_P3\Questao03\Questao03\obj\Debug\Questao03.pdb

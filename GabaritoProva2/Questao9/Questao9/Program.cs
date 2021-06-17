@@ -28,6 +28,7 @@ namespace Questao9
 
             for (int i = 0; i < palavra.Length; i++)
             {
+                // if (vogais.Contains(palavra[i]))
                 if (palavra[i] == vogais[0] ||
                     palavra[i] == vogais[1] ||
                     palavra[i] == vogais[2] ||
